@@ -51,7 +51,9 @@ Me chamo Lilian Santos, tenho 22 anos e sou natural de Minas Gerais. Recentement
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
           
- 
+<br/> 
+<br/> 
+
 ### 📊 Estatísticas 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilian-santos&layout=compact&custom_title=Tecnologias)](https://github.com/lilian-santos/github-readme-stats)
