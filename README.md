@@ -9,37 +9,42 @@ Me chamo Lilian Santos, tenho 22 anos e sou natural de Minas Gerais. Recentement
 ### 💻 Linguagens e Tecnologias
 
 <img 
+    align="left"
     width="30px"
     title="HTML"
-    style="padding-right: 10px; float: left"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
 
 <img
+    align="left"
     width="30px"
     title="CSS"
-    style="padding-right: 10px; float: left"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
 
 <img 
+    align="left"
     width="30px"
     title="JavaScript"
-    style="padding-right: 10px; float: left"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
 
 <img 
+    align="left"
     width="30px"
     title="Tailwind"
-    style="padding-right: 10px; float: left"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
 <img 
+    align="left"
     width="30px"
     title="Bootstrap"
     style="padding-right: 10px;"
