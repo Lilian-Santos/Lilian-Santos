@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Lilian Santos, tenho 22 anos e sou natural de Minas Gerais. Recentemente finalizei a graduação em Sistemas de Informação na UEMG. Apesar disso, continuo a estudar sobre tecnologia, especialmente a área do Front-End, através de cursos online, onde realizo projetos para que eu evolua meus conhecimentos.
+Me chamo Lilian Santos, tenho 23 anos e sou natural de Minas Gerais. Recentemente finalizei a graduação em Sistemas de Informação na UEMG. Apesar disso, continuo a estudar sobre tecnologia, especialmente a área do Front-End, através de cursos online, onde realizo projetos para que eu evolua meus conhecimentos.
 
 ---
 
